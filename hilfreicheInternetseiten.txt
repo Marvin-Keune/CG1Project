@@ -1,0 +1,21 @@
+Aus Uebung Vorberdingung
+
+OpenGL Mathematics: Vektor und Matrizenrechnung. Nutzen und spaeter zusaetzliches Implementieren
+http://glm.g-truc.net/glm.pdf
+
+
+QT ist fuer die Darstellung von grafischen Elementen, wird in dem QTCreator genutzt
+https://doc.qt.io/qt-5.9/index.html
+
+Relevante Klassen in dieser Uebung sind:
+	
+-CgQtGui: Aus dem MVC Pattern ist das das Modell, als alles was grafisch ist
+-CgSceneControl: Aus dem MVC Pattern ist das die Controller Klasse          
+-CgExampleTriangle Beispielklasse, diesen Aufbau bei weiteren Objekten einhalten
+-CgEnmus.h Ist die Objektklasse ein triangle oder ein fan usw
+
+Keine Aenderungen an Klassen mit Base im Namen und nicht in diesen Klassen: (CgQtGLRenderWidget, CgQtGLBufferObject)
+
+
+
+Aufgaben und Verteilung:
